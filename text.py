@@ -5,7 +5,7 @@ import easyocr
 import google.generativeai as genai
 
 reader= easyocr.Reader(['en'])
-API_KEY = 'AIzaSyC85O_R-H8VhRpxAEj7iUAw0o7NCNJ_VmE'
+API_KEY = ''
 genai.configure(api_key = API_KEY)
 
 
