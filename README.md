@@ -30,17 +30,17 @@ Food allergies affect millions of people worldwide. Decoding ingredient lists ca
 
 - **Frontend:**
   - JavaScript
- - React.js
- - Tailwind CSS
+  - React.js
+  - Tailwind CSS
 - **Backend:**
- - Node.js
- - Express.js
- - TypeScript
+  - Node.js
+  - Express.js
+  - TypeScript
 - **Machine Learning:**
- - Python
- - OpenCV
- - EasyOCR
- - Gemini (API Integration)
+  - Python
+  - OpenCV
+  - EasyOCR
+  - Gemini (API Integration)
    
 ## How SafeSpoon Works
 
